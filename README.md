@@ -1,5 +1,7 @@
+[![DRAGON](images/banner.png)](https://dragon.grand-challenge.org/)
+
 # DRAGON Sample Reports
-This repository contains sample reports for the DRAGON benchmark. The sample reports are based on real cases from the DRAGON development data, which were manually fully anonymized and adapted to preserve patient privacy. Protected Health Information (PHI) in reports has been replaced with surrogates, so the information in the reports may look real, but any resemblance to real persions (living or dead) is purely coindidental. If the report appears diagnostically implausible, this is likely a result of the anonymization procedure. Please let me know if you spot this: Joeran.Bosma@radboudumc.nl.
+This repository contains sample reports for the [DRAGON benchmark](https://dragon.grand-challenge.org/). The sample reports are based on real cases from the DRAGON development data, which were manually anonymized and adapted to preserve patient privacy. Protected Health Information (PHI) in reports has been replaced with surrogates, so the information in the reports may look real, but any resemblance to real persions (living or dead) is purely coindidental. If the report appears diagnostically implausible, this is likely a result of the anonymization procedure. Please let me know if you spot this: Joeran.Bosma@radboudumc.nl.
 
 
 | ID  | Name                                          | Report                                                  |
