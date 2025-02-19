@@ -1,0 +1,15 @@
+# Task 6: Histopathology cancer origin
+Label: True
+
+Notes: the report describes that the cancer originates from the lung (“primaire origine in de long”).
+
+Anonymous sample report:
+```
+##############################
+DISCLAIMER: 
+THIS REPORT HAS BEEN ANONYMIZED BY REPLACING PATIENT HEALTH INFORMATION WITH RANDOM SURROGATES.
+ANY RESEMBLANCE TO REAL PERSONS, LIVING OR DEAD, IS PURELY COINCIDENTAL.
+##############################
+
+SAMENVATTING: Patholoog: Violet Marinus Datum ontvangst: 2 okt Datum antwoord : 4/10/2024 Aard materiaal : hersenen Klinische gegevens: Verkrijgingswijze resectie Klinische gegevens verdenking long metastase intracerebraal links parafalcien Vraagstelling aard van het weefsel. Longarts: G. Van Veen Bethesda Materiaal voor biobank Nee Inzending I tumor Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd. CONCLUSIE: excisie klinisch tumor, intracerebraal links parafalcien: beeld passend bij een metastase van een niet-kleincellig carcinoom, met immunohistochemisch aankleuringspatroon passend bij adenocarcinoom met primaire origine in de long. 4 okt 2024 AANVULLING (Lbu): PD-L1 immunohistochemisch positief (>50%). ALK rearrangement immunohistochemisch negatief. Voor DNA mutatieanalysen, zie T 24-817623. Voor fusiegenanalysen, zie T24-817631. MACROSCOPIE: 2 10 2024 Jaar I: vers ontvangen, fragment voor NEOt waarna op formaline. Macro volgt. Jbo 3/10/2024 In formaline. I: onregelmatig, elastisch, deels beige deels bruine biopt van maximaal 2,2 cm x 1,9 cm x 1,6 cm. Aan een zijde is het fragment afgekapseld met een dun vlies, waaronder een donkerblauwe verkleuring. In 4 lamellen. T.i. 3c. Hja MICROSCOPIE: hersenweefsel, met hierin een deels vitale tumor, opgebouwd uit in confluerende velden gelegen epithelioide cellen met overwegend ruim eosinofiel cytoplasma en vergrote soms sterk polymorfe kern, deels met prominente nucleoli. Hierbij op enkele plaatsen suggestie van buisvorming. Deze tumorcellen kleuren aan in de CK7 en TTF1 kleuring. 04.10 AANVULLING (Lbu); PD-L1 (22C3 DAKO) toont immunohistochemisch membraneuze, diffuse aankleuring in ca 80% van de tumorcellen. ALK-rearrangement immunohistochemisch negatief. Aanvullende bevindingen telefonisch medegedeeld aan behandelend logarts op 04.10, 13u45. ISO: Het laboratorium voor pathologie is geaccrediteerd volgens ISO 15189 RvA_TESTEN_M123. Voor de moleculaire analyses wordt deels gebruik gemaakt van faciliteiten van Genoomdiagnostiek Groningen onder ISO 15189 accreditatie M321. Moleculair microbiologisch onderzoek wordt uitbesteed aan Laboratorium Medische Microbiologie onder ISO 15189 accreditatie M456. Bij niet geaccrediteerde testen wordt dit expliciet vermeld.
+```
