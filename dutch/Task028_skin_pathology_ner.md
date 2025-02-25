@@ -1,7 +1,7 @@
 # Task 28: Skin histopathology diagnosis
 Visual:
 
-![report](images/Task028_skin_pathology_ner/report.png)
+![report](/images/dutch/Task028_skin_pathology_ner/report.png)
 
 Label tokenized: 
 ```

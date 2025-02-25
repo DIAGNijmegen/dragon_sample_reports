@@ -1,7 +1,7 @@
 # Task 26: Medical terminology recognition
 Visual:
 
-![report](images/Task026_medical_terminology_ner/report.png)
+![report](/images/dutch/Task026_medical_terminology_ner/report.png)
 
 Label tokenized: 
 ```

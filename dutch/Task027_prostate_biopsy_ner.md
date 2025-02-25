@@ -1,7 +1,7 @@
 # Task 27: Prostate biopsy sampling
 Visual:
 
-![report](images/Task027_prostate_biopsy_ner/report.png)
+![report](/images/dutch/Task027_prostate_biopsy_ner/report.png)
 
 Label tokenized: 
 ```
