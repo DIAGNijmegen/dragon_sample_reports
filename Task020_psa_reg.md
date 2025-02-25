@@ -1,7 +1,7 @@
 # Task 20: Prostate specific antigen extraction
 Label: 9.7
 
-Notes: The report describes a PSA level of 9.7 ng/ml ("PSA: 9,7").
+Notes: The report describes a PSA level of 9.7 ng/ml (“PSA: 9,7”).
 
 Anonymous sample report:
 ```

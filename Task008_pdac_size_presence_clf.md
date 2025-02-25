@@ -1,7 +1,7 @@
 # Task 8: Pancreatic ductal adenocarcinoma size presence
 Label: True
 
-Notes: the report describes a pancreas lesion of 43 mm ("Hypovasculaire tumor in pancreascorpus (43 mm)").
+Notes: the report describes a pancreas lesion of 43 mm (“Hypovasculaire tumor in pancreascorpus (43 mm)”).
 
 Anonymous sample report:
 ```

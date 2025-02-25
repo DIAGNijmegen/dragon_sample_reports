@@ -1,7 +1,7 @@
 # Task 19: Prostate volume extraction
 Label: 68
 
-Notes: The report describes a prostate volume of 68 cm³ ("De prostaat heeft een volume van 68 cc").
+Notes: The report describes a prostate volume of 68 cm³ (“De prostaat heeft een volume van 68 cc”).
 
 Anonymous sample report:
 ```

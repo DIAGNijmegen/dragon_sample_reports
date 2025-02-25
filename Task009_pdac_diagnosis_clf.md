@@ -1,7 +1,7 @@
 # Task 9: Pancreatic ductal adenocarcinoma diagnosis
 Label: PDAC
 
-Notes: the report describes a pancreas tumor of 43 mm ("Hypovasculaire tumor in pancreascorpus (43 mm)").
+Notes: the report describes a pancreas tumor of 43 mm (“Hypovasculaire tumor in pancreascorpus (43 mm)”).
 
 Anonymous sample report:
 ```
