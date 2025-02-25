@@ -1,7 +1,7 @@
 # Task 3: Kidney abnormality identification
 Label: True
 
-Notes: a kidney abnormality is described, in this case both kidneys were removed ("status na bilaterale nefrectomie").
+Notes: a kidney abnormality is described, in this case both kidneys were removed (“status na bilaterale nefrectomie”).
 
 Anonymous sample report:
 ```

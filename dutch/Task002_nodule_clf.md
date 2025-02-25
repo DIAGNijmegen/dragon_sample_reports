@@ -1,7 +1,7 @@
 # Task 2: Pulmonary nodule presence
 Label: True
 
-Notes: A pulmonary nodule is described in this report ("Meerdere aspecifieke longnoduli, vooral in de rechter onderkwab.").
+Notes: A pulmonary nodule is described in this report (“Meerdere aspecifieke longnoduli, vooral in de rechter onderkwab.”).
 
 Anonymous sample report:
 ```

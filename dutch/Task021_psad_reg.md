@@ -1,7 +1,7 @@
-# Task 19: Prostate volume extraction
-Label: 68
+# Task 21: Prostate specific antigen density extraction
+Label: 0.14
 
-Notes: The report describes a prostate volume of 68 cm³ ("De prostaat heeft een volume van 68 cc").
+Notes: The report describes a PSA density of 0.14 ng/ml² (“PSA densiteit: 0,14”).
 
 Anonymous sample report:
 ```

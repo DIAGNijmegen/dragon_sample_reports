@@ -1,7 +1,7 @@
-# Task 21: Prostate specific antigen density extraction
-Label: 0.14
+# Task 20: Prostate specific antigen extraction
+Label: 9.7
 
-Notes: The report describes a PSA density of 0.14 ng/ml² ("PSA densiteit: 0,14").
+Notes: The report describes a PSA level of 9.7 ng/ml (“PSA: 9,7”).
 
 Anonymous sample report:
 ```

@@ -1,9 +1,9 @@
 # Task 25: Anonymization
 Visual:
 
-![report part 1](images/Task025_anonymisation_ner/report-part1.png)
-![report part 2](images/Task025_anonymisation_ner/report-part2.png)
-![report part 2](images/Task025_anonymisation_ner/report-part3.png)
+![report part 1](/images/dutch/Task025_anonymisation_ner/report-part1.png)
+![report part 2](/images/dutch/Task025_anonymisation_ner/report-part2.png)
+![report part 2](/images/dutch/Task025_anonymisation_ner/report-part3.png)
 
 Label tokenized:
 ```

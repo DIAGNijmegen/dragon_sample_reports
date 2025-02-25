@@ -1,7 +1,7 @@
 # Task 22: Pancreatic ductal adenocarcinoma size measurement
 Label: 43
 
-Notes: the report describes a pancreas lesion of 43 mm ("Hypovasculaire tumor in pancreascorpus en staart (43 mm)").
+Notes: the report describes a pancreas lesion of 43 mm (“Hypovasculaire tumor in pancreascorpus en staart (43 mm)”).
 
 Anonymous sample report:
 ```

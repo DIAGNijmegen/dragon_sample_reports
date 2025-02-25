@@ -1,7 +1,7 @@
-# Task 20: Prostate specific antigen extraction
-Label: 9.7
+# Task 19: Prostate volume extraction
+Label: 68
 
-Notes: The report describes a PSA level of 9.7 ng/ml ("PSA: 9,7").
+Notes: The report describes a prostate volume of 68 cm³ (“De prostaat heeft een volume van 68 cc”).
 
 Anonymous sample report:
 ```
